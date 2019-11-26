@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     var Name: String?
     override func viewDidLoad() {
         super.viewDidLoad()
+        //这是测试
         // Do any additional setup after loading the view, typically from a nib.
     }
 }
